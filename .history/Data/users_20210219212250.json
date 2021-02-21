@@ -17,7 +17,7 @@
             "DisplayName": "Admin", 
             "EmailAddress": "admin@example.com",
             "Username": "admin",
-            "Password": "12345678"
+            "Password": "123456"
         }
     ]
 }
